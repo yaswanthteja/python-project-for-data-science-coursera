@@ -19,7 +19,7 @@ The skills gained in this project entail
 <p>
 Using the function boxplot in the seaborn library to determine whether houses with a waterfront view or without a waterfront view have more price outliers.</p>
 
-![alt text](https://github.com/ROSINA365/COURSERA-PYTHON-PROJECT-FOR-DATA-SCIENCE/blob/main/Images/BoxPlot.png)
+![alt text](https://github.com/yaswanthteja/python-project-for-data-science-coursera/blob/Master/Images/BoxPlot.png)
 
 
 
